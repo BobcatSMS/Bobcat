@@ -1,0 +1,32 @@
+User not connected
+|
+|-Home
+|-About
+|-Contact us
+|-Source on GitHub
+|-Sign up
+|-Login
+		
+User connected
+|
+|-Home
+|-About
+|-Contact us
+|-Source on GitHub
+|-Applications|
+|             |-Twitter
+|             |
+|-Profile
+|-Sign out
+
+User connected
+|
+|-Home
+|-About
+|-Contact us
+|-Source on GitHub
+|-Applications|
+|             |-Twitter
+|             |-Add
+|-Profile
+|-Sign out

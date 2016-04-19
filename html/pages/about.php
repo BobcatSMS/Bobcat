@@ -1,0 +1,1 @@
+Bobcat is a free software under the WTFPL licence.

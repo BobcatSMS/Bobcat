@@ -1,0 +1,1794 @@
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Socket created
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Waiting for connection
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Waiting for connection
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Waiting for connection
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Waiting for connection
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Waiting for connection
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Waiting for connection
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Ohhh", "number": "+33604431630"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33621551654"}'
+DEBUG:root:Received : b'{"message": "Twitter", "number": "+33604431630"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 52234)
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 57318)
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 57320)
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 51456)
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 50987)
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 60802)
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33621551654"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 32979)
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 52495)
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 49468)
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 49470)
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 49472)
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 48108)
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 56387)
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 56389)
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 52333)
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 54501)
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 54859)
+DEBUG:root:Waiting for connection
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Accepted from ('192.168.0.17', 56308)
+DEBUG:root:Received : b'{"message": " h u k \\u03a0", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 57242)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+<<<<<<< HEAD
+=======
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 48902)
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 55339)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 57777)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 49202)
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 44198)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 34753)
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 44458)
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 34000)
+DEBUG:root:Received : b'{"message": "yi", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 48396)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 38862)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 43191)
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 43480)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 42901)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 52968)
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 55054)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 40488)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 35860)
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 41653)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 43105)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 43479)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 43083)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 58096)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 58096)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 35271)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 47692)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 55402)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 60102)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 60365)
+DEBUG:root:Received : b'{"message": "On est au niveau de Camille vernet ? ", "number": "+33699092172"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 49583)
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 58174)
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 58176)
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 58178)
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 58180)
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 58182)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 47657)
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 47659)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 41989)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 47655)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 34544)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 33944)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 34394)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 45105)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 45801)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 55142)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 51397)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 39014)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 35998)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 44012)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 38786)
+DEBUG:root:Received : b'{"message": " Ping", "number": "+33604431630"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 38976)
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 41764)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 41764)
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33604431630"}'
+DEBUG:root:Waiting for connection
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 34927)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 42594)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 36479)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 48137)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 38574)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 43159)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 38439)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 34794)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 38368)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 36303)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 40995)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 41644)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 42978)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 36710)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 36107)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 37021)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 34461)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 35979)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 35534)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 57727)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 47897)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 54377)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 49945)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 50770)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 50658)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 49959)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 52168)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "yolo", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "twitter tw Ce texte ne passera jamais", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 55366)
+DEBUG:root:Received : b'{"message": "twitter tw Aucune chance que \\u00e7a tweete \\u00e7a", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 35869)
+DEBUG:root:Received : b'{"message": "Ping", "number": "+33699092172"}'
+DEBUG:root:Received : b'{"message": "twitter Twitter maintenant accessible via Bobcat ! Periode d\'expression libre nocturne.", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "twitter mon premier tweet \\\\(^\\u30ee^)/ ", "number": "+33699092172"}'
+DEBUG:root:Received : b'{"message": "twitter Franchement \\u00e7a p\\u00e8se.", "number": "+33604197888"}'
+<<<<<<< HEAD
+DEBUG:root:Received : b'{"message": "twitter j\'aime les pommes", "number": "+33648678694"}'
+DEBUG:root:Received : b'{"message": "twitter #finirLeProjetA4hDuMat", "number": "+33648678694"}'
+DEBUG:root:Received : b'{"message": "twitter Cecile on t\'aime #love", "number": "+33786127108"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 38809)
+DEBUG:root:Received : b'{"message": "twitter #TouchePasAMaCousineConnard", "number": "+33648678694"}'
+DEBUG:root:Received : b'{"message": "Twitter #axelnousempechedebosseravecsonprojet", "number": "+33601488196"}'
+DEBUG:root:Received : b'{"message": "tweet Il n\'est pas tout seul \\u00e8_\\u00e9", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "tweeter Il n\'est pas tout seul \\u00e8_\\u00e9", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "twitter Il n\'est pas tout seul \\u00e8_\\u00e9", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "twitter http://puu.sh/o0bGk/604aaacbd6.png", "number": "+33786127108"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 39507)
+DEBUG:root:Received : b'{"message": "aide", "number": "+33786127108"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 59252)
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 52236)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33786127108"}'
+DEBUG:root:Received : b'{"message": "C est Nicolas santillana ^^ ok je renvoi xd", "number": "+33601488196"}'
+DEBUG:root:Received : b'{"message": "Twitter #axelnousempechedebosseravecsonprojet", "number": "+33601488196"}'
+DEBUG:root:Received : b'{"message": "C\'est facile apr\\u00e8s de demander un identifiant, un mot de passe, sauvegarder par num\\u00e9ro de tel, et envoyer le tweet au bon compte", "number": "+33786127108"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 49710)
+DEBUG:root:Received : b'{"message": "Mdr je suis b\\u00eata testeur ", "number": "+33786127108"}'
+DEBUG:root:Received : b'{"message": "rm -f *", "number": "+33786127108"}'
+DEBUG:root:Received : b'{"message": "Mdr haha", "number": "+33786127108"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 49710)
+DEBUG:root:Received : b'{"message": "twitt er", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ae e", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "z", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "12\\"6", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "twitteR #Hashtag", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "az\'z", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 58508)
+DEBUG:root:Received : b'{"message": "azd\'h", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 41934)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ho", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "atur", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "atur", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "atur", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "a.\'t", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 46020)
+DEBUG:root:Received : b'{"message": "b\'j", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 49119)
+DEBUG:root:Received : b'{"message": "h\'k", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 47212)
+DEBUG:root:Received : b'{"message": "ju\'ju", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 48418)
+DEBUG:root:Received : b'{"message": "t", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 57591)
+DEBUG:root:Received : b'{"message": "i", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "j\'k", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "twitter #OnEstPasFatigu\\u00e9", "number": "+33648678694"}'
+=======
+>>>>>>> 4ca63fca7c6e86f8e5aafa2f01af80e1f62c647c
+>>>>>>> e73f8795685bf460704b7215cede05e706306efa
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 44414)
+DEBUG:root:Received : b'{"message": "twitter #onCodeEt\\u00c7aMarche", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 42237)
+DEBUG:root:Received : b'{"message": "twitter #onCodeEt\\u00c7aMarche", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 34377)
+DEBUG:root:Received : b'{"message": "p", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "r", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "t", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 41417)
+DEBUG:root:Received : b'{"message": "Twitter tw yo", "number": "+33604431630"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 50368)
+DEBUG:root:Received : b'{"message": "Twitter tw yo", "number": "+33604431630"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 50368)
+DEBUG:root:Received : b'{"message": "Twitter tw yo", "number": "+33604431630"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 51227)
+DEBUG:root:Received : b'{"message": "Twitter tw yo", "number": "+33604431630"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 44397)
+DEBUG:root:Received : b'{"message": "Twitter tw yo", "number": "+33604431630"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 45998)
+DEBUG:root:Received : b'{"message": "\\"twitter\\" je suis plus intelligent que tay de chez Google ! ", "number": "+33638698303"}'
+DEBUG:root:Received : b'{"message": "twitter je suis plus intelligent que tay de chez Google ! ", "number": "+33638698303"}{"message": "Twitter je suis plus intelligent que tay de chez Google ! ", "number": "+33638698303"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 57905)
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 52570)
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "test", "number": "+33786425212"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "D\\u00e9sol\\u00e9, nous ne connaissons pas la commande \\"test\\" !", "number": "+33786425212"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "ping", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 46167)
+DEBUG:root:Received : b'{"message": "twitter machin", "number": "+33786425212"}'
+DEBUG:root:Received : b'{"message": "Tweet publi\\u00e9 sur @ProxyBc !", "number": "+33786425212"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 50687)
+DEBUG:root:Received : b'{"message": "D\\u00e9sol\\u00e9, nous ne connaissons pas la commande \\"tweet\\" !", "number": "+33786425212"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 49646)
+DEBUG:root:Received : b'{"message": "twitter pourquoi axel est gay? ", "number": "+33658213718"}'
+DEBUG:root:Received : b'{"message": "\\"\\"\'\'\\"\'\\"\\"\'\\" voila", "number": "+33786425212"}'
+DEBUG:root:Received : b'{"message": "D\\u00e9sol\\u00e9, nous ne connaissons pas la commande \\"\\"\\"\'\'\\"\'\\"\\"\'\\"\\" !", "number": "+33786425212"}'
+DEBUG:root:Received : b'{"message": "D\\u00e9sol\\u00e9, nous ne connaissons pas la commande \\"d\\u00e9sol\\u00e9,\\" !", "number": "+33786425212"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 49265)
+DEBUG:root:Received : b'{"message": "D\\u00e9sol\\u00e9, nous ne connaissons pas la commande \\"d\\u00e9sol\\u00e9,\\" !", "number": "+33786425212"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 53488)
+DEBUG:root:Received : b'{"message": "Twitter tw 8h27 le projet est loin d\'\\u00eatre fini #lebonrapport", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "twitter \\"mon projet marche !\\"", "number": "+33621551654"}'
+DEBUG:root:Received : b'{"message": "twitter \\"j\'ai des poules dans mon jardin #campagne\\"", "number": "+33621551654"}'
+DEBUG:root:Received : b'{"message": "twitter \\"mon rapport n\'est pas finit !\\"", "number": "+33621551654"}'
+DEBUG:root:Received : b'{"message": "twitter \\"mon rapport est moche\\"", "number": "+33621551654"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 54313)
+DEBUG:root:Received : b'{"message": "Twitter lt @ProxyBc", "number": "+33604431630"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 54313)
+DEBUG:root:Received : b'{"message": "Twitter lt @ProxyBc", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Twitter lt @ProxyBc", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Tu re\\u00e7ois les sms ? ", "number": "+33699092172"}'
+DEBUG:root:Received : b'{"message": "Mince ! \\u03c3(\\uffe3\\u3001\\uffe3\\u3003)", "number": "+33699092172"}'
+DEBUG:root:Received : b'{"message": "Aide \\u00e0 la traduction disponible ? ", "number": "+33699092172"}'
+DEBUG:root:Received : b'{"message": "Traduction fran\\u00e7ais anglais ", "number": "+33699092172"}'
+DEBUG:root:Received : b'{"message": "Tweet booouh", "number": "+33699092172"}'
+DEBUG:root:Received : b'{"message": "Twitter bouuuuuuh", "number": "+33699092172"}'
+DEBUG:root:Received : b'{"message": "Twitter tw \\"Ca marche pas bande de c**\\" -Louis", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Twitter tw \\"C\'est g\\u00e9nial\\"-Louis", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "twitter il est midi moins cinq, on vient de finir d\'imprimer le rapport #reliures ", "number": "+33621551654"}'
+DEBUG:root:Received : b'{"message": "Tu as un courrier epita", "number": "+33687751032"}'
+DEBUG:root:Received : b'{"message": "Hein ?", "number": "+33687751032"}'
+DEBUG:root:Received : b'{"message": "Tu as un\' courrier epita ", "number": "+33687751032"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 42212)
+DEBUG:root:Received : b'{"message": "poc", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "Twitter ton projet est super", "number": "+33687751032"}'
+DEBUG:root:Received : b'{"message": "#mercimaman", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "\\nTwitter bah voil\\u00e0 \\u00e7a marche", "number": "+33687751032"}'
+DEBUG:root:Received : b'{"message": "twitter #mercimaman", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "Twitter \\ud83d\\ude04", "number": "+33687751032"}'
+DEBUG:root:Received : b'{"message": "twitter Bon allez les copains, serveur down jusqu\'\\u00e0 nouvel ordre", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "twitter OH PUTAIN CA MARCHE AUSSI AVEC LES EMOJIS", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "twitter Allez, serveur \\u00e9teint, bisous !", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 57784)
+DEBUG:root:Received : b'{"message": "twittbc PAS DE S \\u00c0 BISOU OMG #GRAMMARNAZI #NNC\\u00c9PAMWA", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "twittbc PAS DE S \\u00c0 BISOU OMG #GRAMMARNAZI #NNC\\u00c9PAMWA", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 58619)
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 60059)
+DEBUG:root:Received : b'{"message": "twitter Coucou", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "twitter Coucou", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "twitter Coucou", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 49126)
+DEBUG:root:Received : b'{"message": "twitter Coucou", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 60065)
+DEBUG:root:Received : b'{"message": "twitter Coucou", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "twitter Coucou", "number": "+33604197888"}'
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 60065)
+DEBUG:root:Received : b'{"message": "twitter Coucou", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "twitter Coucou", "number": "+33604197888"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 42428)
+DEBUG:root:Received : b'{"message": "twitter Coucou", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "twitter Coucou", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "twitter Coucou les guillaumes", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "Twitter @ProxyBc \\u00e7a marche?", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Twittbc try", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Twittlt #mlle_choupette", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Twittlt @mlle_choupette", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Twittlt @mlle_choupette", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Twittlt @proxybc", "number": "+33604431630"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 52824)
+DEBUG:root:Received : b'{"message": "Dice 20", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Mdice 3 20", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Mdice 20 3", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Twittbc Donc \\u00e7a marche de ouf l\\u00e0 en fait", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Citation", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Twittlt @sgtpembry", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Tweetlt @francoisrollin", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Twittlt @francoisrollin", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Twittlt @gadelmaleh", "number": "+33604431630"}'
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 51793)
+DEBUG:root:Received : b'{"message": "Oua ! Tu as vu le kickstarter de half life 3 c\'est enorme", "number": "+33682895708"}'
+DEBUG:root:Received : b'{"message": "Roh tu n\'as pas d\'humour", "number": "+33682895708"}'
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 37333)
+DEBUG:root:Socket created
+ERROR:root:Fail binding
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 50980)
+DEBUG:root:Received : b'{"message": "Twitter It\'s working", "number": "+33604431630"}'
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 34150)
+DEBUG:root:Received : b'{"message": "Twitter It\'s working!", "number": "+33604431630"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 33133)
+DEBUG:root:Received : b'{"message": "Twitttbc bah voil\\u00e0 on part pour l\'IUT. Le serveur sera up toute la journ\\u00e9e :)", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Twittbc bah voil\\u00e0 on part pour l\'IUT. Le serveur sera up toute la journ\\u00e9e :)", "number": "+33604431630"}'
+DEBUG:root:Socket created
+DEBUG:root:Socket ready
+DEBUG:root:Socket listening
+DEBUG:root:Waiting for connection
+DEBUG:root:Accepted from ('192.168.0.17', 41756)
+DEBUG:root:Received : b'{"message": "Twittlt @proxybc", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "iu", "number": "+33604197888"}'
+DEBUG:root:Received : b'{"message": "Twittlt @ProxyBc", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Twittlt @ProxyBc", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "twitter @amineferdjoukh quand on teste le projet S4 des autres groupes via sms", "number": "+33786127108"}'
+DEBUG:root:Received : b'{"message": "twitlt @nerpson", "number": "+33786127108"}'
+DEBUG:root:Received : b'{"message": "twitlt @nerpson", "number": "+33786127108"}'
+DEBUG:root:Received : b'{"message": "Twitter Encore 40 min avant la soutenance", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "twittlt @damiengenthial", "number": "+33786127108"}'
+DEBUG:root:Received : b'{"message": "dice", "number": "+33786127108"}'
+DEBUG:root:Received : b'{"message": "citation", "number": "+33786127108"}'
+DEBUG:root:Received : b'{"message": "Twitter coucou \\ud83d\\ude00", "number": "+33637759073"}'
+DEBUG:root:Received : b'{"message": "Twittbc Coucou \\ud83d\\ude00", "number": "+33637759073"}'
+DEBUG:root:Received : b'{"message": "Twittlt @ProxyBc", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Twitter Pr\\u00e9sentation -5min", "number": "+33604431630"}'
+DEBUG:root:Received : b'{"message": "Dice", "number": "+33658213718"}'
+DEBUG:root:Received : b'{"message": "Citation", "number": "+33658213718"}'
+DEBUG:root:Received : b'{"message": "Dice", "number": "+33658213718"}'
+DEBUG:root:Received : b'{"message": "twittbc Alors la soutenance, \\u00e7a flippe? ;-)", "number": "+33658213718"}'
+DEBUG:root:Received : b'{"message": "Fils de outz", "number": "+33658213718"}'
+DEBUG:root:Received : b'{"message": "Ta gueule", "number": "+33658213718"}'
+DEBUG:root:Received : b'{"message": "twitter je suis plus intelligent que tay de chez Google ! ", "number": "+33638698303"}'
+DEBUG:root:Received : b'{"message": "Twittbc Coucou les gens :D", "number": "+33649290281"}'
+DEBUG:root:Received : b'{"message": "twittbc je suis plus intelligent que tay de chez Google ! ", "number": "+33638698303"}'
+DEBUG:root:Received : b'{"message": "Twittbc salut je m\'appel BOB ", "number": "+33780327875"}'

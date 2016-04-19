@@ -1,0 +1,44 @@
+/*
+html, body {
+    height:100%;
+    width:100%;
+}
+*/
+.appname, .appdesc
+{
+	margin: 0;
+	padding: 0;
+}
+
+.appname
+{
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #444
+}
+
+.appdesc
+{
+	color: #888
+}
+
+.active .appname, .active .appdesc
+{
+	color: #FFF
+}
+
+/*
+aside
+{
+	position: fixed;
+	left:0;
+	height:100%;
+}
+
+.apps
+{
+	position:fixed;
+	height:100%;
+	overflow:auto;
+}
+*/
